@@ -1,0 +1,39 @@
+#Hockey {
+    width: 300px;
+}
+
+#favoritesport:hover {
+    background-color: blue;
+}
+
+#RyanMcDonagh {
+    width: 300px;
+}
+
+#RyanBirth:hover {
+   background-color: orange; 
+}
+
+#NewYorkRangers {
+    width: 300px;
+}
+
+#RangersMadisonSquareGarden:hover {
+    background-color: green;
+}
+
+#RangersMadisonSquareGarden {
+    font-size: 
+}
+
+#HenrikLundqvist {
+    width: 30px;
+}
+
+#Henrikbirth:hover {
+    background-color: red;
+}
+
+#Henrikbirth {
+    font-size: 30px;
+}
