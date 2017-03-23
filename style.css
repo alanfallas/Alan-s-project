@@ -1,39 +1,63 @@
 #Hockey {
     width: 300px;
 }
-
 #favoritesport:hover {
     background-color: blue;
 }
-
+#favoritesport {
+    font-size: 20px;
+}
 #RyanMcDonagh {
     width: 300px;
 }
-
 #RyanBirth:hover {
    background-color: orange; 
 }
-
+#RyanBirth {
+    font-size: 20px;
+}
 #NewYorkRangers {
     width: 300px;
 }
-
 #RangersMadisonSquareGarden:hover {
     background-color: green;
 }
-
 #RangersMadisonSquareGarden {
     font-size: 20px;
 }
-
 #HenrikLundqvist {
     width: 300px;
 }
-
 #Henrikbirth:hover {
     background-color: red;
 }
-
 #Henrikbirth {
-    font-size: 30px;
+    font-size: 20px;
+}
+body {
+    font-family: "open Sans", sans-serif;
+}
+#hockeyteam:hover {
+    background-color: purple;
+}
+#ryanp:hover {
+    background-color: yellow;
+}
+#henrikh {
+    color: blue;
+}
+#hockeyh {
+    color: orange;
+}
+#cap {
+    color: purple;
+}
+#hockeyh {
+    color: green;
+}
+#nyr {
+    color: yellow;
+}
+#nyr2 {
+    width: 300px;
 }
